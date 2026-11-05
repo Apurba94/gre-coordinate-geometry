@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-coordinate-geometry", "title": "Coordinate Geometry", "exam": "GRE", "area": "GRE Quant", "desc": "Slopes, lines, distance, midpoints and graphs on a drawn coordinate plane.", "content": [], "n": 29};
